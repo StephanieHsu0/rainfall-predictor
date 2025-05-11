@@ -1,6 +1,6 @@
-streamlit==1.33.0
-torch>=2.0.0
+streamlit
+torch
+scikit-learn
 numpy
 pandas
-scikit-learn
 matplotlib
